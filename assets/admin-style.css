@@ -1,0 +1,20 @@
+.todo-wrapper {
+    margin: 20px auto;
+}
+
+.form-field label {
+    display: block;
+}
+
+.todo-wrapper table {
+    border-collapse: collapse;
+    border: 1px solid;
+    border-spacing: 5px;
+}
+
+.todo-wrapper table th, 
+.todo-wrapper table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid;
+}
